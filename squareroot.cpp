@@ -8,3 +8,4 @@ int sqrt1(){
     cout<<"The Square Root of the Number is: "<<sqrt(a)<<endl;
 
 }
+//github:- padalakiran
