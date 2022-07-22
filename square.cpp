@@ -9,3 +9,4 @@ int sq(){
     cout<<"The square of the numbers is: "<<c<<endl;
     return 0;
 }
+//github:- padalakiran
