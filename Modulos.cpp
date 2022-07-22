@@ -11,3 +11,4 @@ int modulos(){
     cout<<"The modulo of the two numbers is: "<<c<<endl;
     return 0;
 }
+// github:-padalakiran
