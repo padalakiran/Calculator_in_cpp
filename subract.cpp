@@ -11,3 +11,4 @@ int subtract(){
     cout<<"The difference of the two numbers is: "<<c<<endl;
     return 0;
 }
+//github:- padalakiran
