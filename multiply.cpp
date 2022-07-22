@@ -11,3 +11,4 @@ int multiply(){
     cout<<"The product of the two numbers is: "<<c<<endl;
     return 0;
 }
+// github:- padalakiran
